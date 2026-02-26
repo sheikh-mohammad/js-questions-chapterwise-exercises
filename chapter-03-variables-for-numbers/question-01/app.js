@@ -1,4 +1,4 @@
 var age;
-age = 15;
+age = 14;
 
 alert("I am " + age + " years old");

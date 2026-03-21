@@ -5,8 +5,3 @@ function Person(name, gender, address, education, profession) {
     this.education = education;
     this.profession = profession;
 }
-
-function createPerson() {
-    var male = document.getElementById("male")
-    console.log(male.value);
-}
